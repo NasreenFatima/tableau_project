@@ -11,6 +11,7 @@ The objective of this project is to design and develop a dynamic and interactive
 
 ### Sales Breakdown by:
 a) Weekly Sales Trend
+
 b) Body Style (e.g., SUV, Sedan, Hatchback)
 c) Car Color (e.g., Pale White, Black, Red)
 d) Dealer Region (Manual vs Auto transmission)
