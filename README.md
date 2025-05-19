@@ -10,12 +10,11 @@ The objective of this project is to design and develop a dynamic and interactive
 3. Total Cars Sold: 13.26K units with 24.57% YoY growth
 
 ### Sales Breakdown by:
-a) Weekly Sales Trend
-
-b) Body Style (e.g., SUV, Sedan, Hatchback)
-c) Car Color (e.g., Pale White, Black, Red)
-d) Dealer Region (Manual vs Auto transmission)
-e) Company-wise Sales Trends
+1. Weekly Sales Trend
+2. Body Style (e.g., SUV, Sedan, Hatchback)
+3. Car Color (e.g., Pale White, Black, Red)
+4. Dealer Region (Manual vs Auto transmission)
+5. Company-wise Sales Trends
 
 ## 🔍 Filters & Interactivity:
 1. Date Range Selector
