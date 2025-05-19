@@ -2,7 +2,7 @@
 
 ## 🎯 Project Objective:
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Tableau. The dashboard visualizes critical KPIs related to car sales, helping stakeholders understand performance trends over time and make informed, data-driven decisions.The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data.
-This interactive Car Sales Dashboard was built using Tableau Public to analyze year-to-date (YTD) car sales performance across various dimensions, helping businesses make data-driven decisions in the automotive sector.
+
 
 ## 📊 Key Insights Visualized:
 1. Total YTD Sales: $371.19M with 23.59% YoY growth
